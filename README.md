@@ -1,14 +1,2 @@
-## Coding test
+## 이 저장소는 자기소개서가 작성되어있습니다.
 
-소스코드 블록은 다음과 같이 작성할 수 있습니다.
-
-```c
-
-#include<stdio.h>
-
-int main(){
-
-printf("hello");
-return 0;
-
-}
